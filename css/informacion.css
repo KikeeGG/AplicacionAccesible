@@ -141,7 +141,10 @@ h2 {
 }
 
 .importante {
-    border-left: 5px solid #82a88e;
+    border-left: 3px solid #82a88e;
+    border-right: 3px solid #82a88e;
+    border-top: 3px solid #82a88e;
+    border-bottom: 3px solid #82a88e;
 }
 
 .volver {
