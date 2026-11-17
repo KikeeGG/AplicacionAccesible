@@ -149,6 +149,14 @@ h2 {
     margin: 50px 20px;
 }
 
+.infoimg{
+    display: block;
+    width: 700px;
+    height: 400px;
+    object-fit: cover;
+    margin: 20px auto;
+}
+
 .boton {
     display: inline-block;
     background-color: #39745e;
